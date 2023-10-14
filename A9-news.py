@@ -21,3 +21,5 @@ def crawl():
     driver.close()
 
     return thenews
+
+crawl()
